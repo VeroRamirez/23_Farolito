@@ -1,0 +1,19 @@
+.cuaama{
+	width: 250px;
+	height: 150px;
+	background-color: #ffc200;
+	display: block;
+	margin: auto;
+	color: white;
+}
+.cuagri{
+	width: 250px;
+	height: 150px;
+	background-color: #989898;
+	display: block;
+	margin: auto;
+	color: white;
+}
+.logo{
+	float: left;
+}
